@@ -7,7 +7,7 @@ const fs = require('fs');
 class BubblesAutoRegister {
     constructor() {
         this.baseUrl = 'https://bubbles-ogcp.onrender.com';
-        this.referralCode = 'VuoKGo0K';
+        this.referralCode = 'f26sudqx';
     }
 
     // Generate a random Ethereum-like wallet address
